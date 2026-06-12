@@ -1,4 +1,4 @@
-const PREFIX = "White people be like ";
+const PREFIX = "White people be like: ";
 
 function agregarPrefijoATweets() {
   const tweets = document.querySelectorAll('[data-testid="tweetText"]');

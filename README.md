@@ -8,4 +8,5 @@ Firefox Extension that adds white people be like at the start of a tweet
 ## Link
 
 Instalation Link:
-https://addons.mozilla.org/es-MX/firefox/addon/white-people-be-like/
+- ![Chrome](https://img.shields.io/badge/Google_Chrome-4285F4?style=flat&logo=google-chrome&logoColor=white) Soon
+- ![Firefox](https://img.shields.io/badge/Mozilla_Firefox-FF7139?style=flat&logo=firefox&logoColor=white)  https://addons.mozilla.org/es-MX/firefox/addon/white-people-be-like/
